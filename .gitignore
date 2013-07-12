@@ -1,0 +1,4 @@
+
+*.pyc
+*.sqaConverts_with_core
+.sqaConverts_without_core
