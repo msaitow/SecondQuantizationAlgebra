@@ -5,7 +5,7 @@ The working equations of the full-internally contracted multireference configura
 
 Distinctions from the original copy:
 
-  * Use of spin-free unitary group generator made fully functional
+  * Use of spin-free unitary group generator is made fully functional
   * A simple code generator integrated inside SQA
 
 If you modify this version of SQA package in your own work, in additon to the original paper (J Chem Phys 130 124102 (2009)) you should cite the following one, 
